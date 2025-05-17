@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+myenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output and log files
+output.txt
+uploaded_image.jpg
+
+# System-specific files
+.DS_Store
+
+# Editor settings
+.vscode/
